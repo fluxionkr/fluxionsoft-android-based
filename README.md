@@ -1,12 +1,16 @@
 # README #
 
 Fluxionsoft Android APP
+(주)플럭션소프트 - 안드로이드 기반 앱
 
 ### What is this repository for? ###
 
 * Quick summary
-* Version
+* Version 0.0.1
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+안드로이드 네이트 기반 기초 앱 입니다.
+
 
 ### How do I get set up? ###
 
