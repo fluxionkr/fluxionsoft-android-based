@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130201764697",
+    "project_id": "fluxionsoft-android-based",
+    "storage_bucket": "fluxionsoft-android-based.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130201764697:android:5ce2b5e6cc26393a108248",
+        "android_client_info": {
+          "package_name": "co.kr.fluxionsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130201764697-8bvo0oo6qvkf2b9njkgkc1q8smosd8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAMYn3bs5BYTVuF1VWZz4s-qrucY3pWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130201764697-8bvo0oo6qvkf2b9njkgkc1q8smosd8nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

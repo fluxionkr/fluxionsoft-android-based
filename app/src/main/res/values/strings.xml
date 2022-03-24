@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fluxionsoft</string>
+    <string name="facebook_app_id">2048270805333592</string>
+    <string name="fb_login_protocol_scheme">fb2048270805333592</string>
+
+    <string name="kakao_ad_track_id" translatable="false">2429275180763429245</string>
+
+</resources>
